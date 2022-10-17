@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saket Munda
 ===================================================================================================================================
 
-Software Developer | Machine Learning Engineer
+Software Developer | Machine Learning Practitioner
 ----------------------------------------------
 
 I'm a backend developer by profession who loves to create software based solutions and on a mission to help others through technology.
