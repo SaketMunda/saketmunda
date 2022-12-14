@@ -25,7 +25,7 @@ I'm a backend developer by profession who loves to create software based solutio
 *   ✉️  You can contact me at [saket.munda@gmail.com](mailto:saket.munda@gmail.com)
 *   🧠  I'm learning Deep Learning & Neural Networks
 *   🤝  I'm open to collaborating on research and building software based products
-*   ⚡  I Am Batman
+*   ⚡  Hail Hydra 👨🏼‍🎤 ! Hail Open Source ❤️
 
 <a href="https://www.twitter.com/iSaketMunda" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/twitter/follow/iSaketMunda?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
                 
