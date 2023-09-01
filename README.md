@@ -22,7 +22,7 @@ Software Developer | Machine Learning Practitioner
 I'm a backend developer by profession who loves to create software based solutions and on a mission to help others through technology.
 
 *   🌍  I'm based in Ranchi, India
-*   ✉️  You can contact me at [saket.munda@gmail.com](mailto:saket.munda@gmail.com), [Twitter](https://www.twitter.com/iSaketMunda)
+*   ✉️  You can contact me at [saket.munda@gmail.com](mailto:saket.munda@gmail.com), [X.com](https://www.twitter.com/iSaketMunda)
 *   🧠  I'm learning Deep Learning & Neural Networks
 *   🤝  I'm open to collaborating on research and building software based products
 *   ⚡  Hail Hydra 👨🏼‍🎤 ! Hail Open Source ❤️
